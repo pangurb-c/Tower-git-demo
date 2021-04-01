@@ -1,0 +1,11 @@
+---
+- host: all
+  connection: local
+  gather_facts: no
+
+  tasks:
+
+  - name: output message
+    debug:
+      msg: hello-world
+~                        
