@@ -7,5 +7,4 @@
 
   - name: output message
     debug:
-      msg: hello-world
-~                        
+      msg: hello-world                 
